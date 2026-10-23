@@ -1,0 +1,9 @@
+{
+  "sourceCommit": "3d3d6f311abfdee2d0a1f2a407b9dcfb2bf48ca5",
+  "basePath": "/model-viewer/",
+  "versions": {
+    "MODELVIEWER_VERSION": "4.4.0",
+    "THREEJS_VERSION": "0.183.2",
+    "POSTPROCESSING_VERSION": "6.39.1"
+  }
+}
